@@ -4,3 +4,22 @@ Apellidos: Della Canonica y Mumm
 
 c-Si, exactamente igual. Gamma agrega el fork de Alfa como remoto y sincroniza
 d- No se pierden. Git fusiona los cambios
+
+e-
+BETA: crea el fork.txt, y lo agrega con 
+git add. 
+git commit -m "BETA crea fork.txt"
+git push
+Beta  crea un nuevo archivo llamado nuevodato.txt y lo agrega con 
+git add . 
+git commit -m "Beta crea el archivo nuevodato.txt"
+git push
+ALFA:
+clona ele for con git clone (fork)
+entra como main y actualiza desde github la bifurcacion de para tener los cambios de BETA 
+modifica los datos de fork.txt y los sube con git add 
+BETA crea un archivo llamado respuesta con lso nombres y apellidos y lo agrega con git add y git pull 
+ALFA le manda una solicitud para copartir los cambios a BETA desde github y los guarda 
+
+Nombre de alfa : IGNACIO MUMM 
+nombre de beta: Della Canonica Dupont
