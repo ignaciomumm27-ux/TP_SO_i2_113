@@ -1,2 +1,6 @@
 Nombres: Ignacio y Ignacio
 Apellidos: Della Canonica y Mumm
+
+
+c-Si, exactamente igual. Gamma agrega el fork de Alfa como remoto y sincroniza
+d- No se pierden. Git fusiona los cambios
